@@ -1,0 +1,22 @@
+{
+  "name": "ts_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "webpack serve",
+    "bulid": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.3",
+    "ts-loader": "^9.4.4",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  },
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
